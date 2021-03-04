@@ -147,7 +147,7 @@ export default {
           "/",
         headers: {
           "x-rapidapi-key":
-            "467e95f757msha9d621ea83334a0p1acb56jsnc08b956b658c",
+            "<insert your key here>",
           "x-rapidapi-host": "coronavirus-smartable.p.rapidapi.com",
         },
       };
